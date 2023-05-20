@@ -1,9 +1,9 @@
 {
-  "name": "Queen-AI",
-  "description": "Queen-AI Multi Language WhatsApp AI Chat Bot",
+  "name": "V-F-C-F-C-AI",
+  "description": "V-F-C-F-C-AI Multi Language WhatsApp AI Chat Bot",
   "repository": "https://github.com/DarkWinzo/Queen-AI",
-  "logo": "https://i.ibb.co/zbMKwKZ/20230425-161348.jpg",
-  "keywords": ["multi-device","Queen-AI","DarkWinzo"],
+  "logo": "https://i.imgur.com/I9T0ck1.jpeg",
+  "keywords": ["multi-device","V-F-C-F-C-AI","ADEEN00011"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
