@@ -624,7 +624,7 @@ async function startQueen() {
 app.get("/", (req, res) => {
     res.send("");
   });
- app.listen(port, () => console.log(`📟 QUEEN-AI SYSTEM SERVER LISTENING PORT = http://localhost:${port} 📟`));
+ app.listen(port, () => console.log(`V-F-C-F-C - AI SYSTEM SERVER LISTENING PORT = http://localhost:${port} ❣️`));
 setTimeout(() => {
 startQueen();
 }, 3000);
